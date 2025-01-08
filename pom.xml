@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>io.gitee.zeng272804553</groupId>
+    <groupId>io.github.zengziqiang</groupId>
     <artifactId>make-win-service-maven-plugin</artifactId>
     <packaging>maven-plugin</packaging>
     <version>1.1.RELEASE</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>将springboot的jar包项目制作成window电脑开机自启服务的maven插件</description>
-    <url>https://gitee.com/zeng272804553/crj6dqpbjd</url>
+    <url>https://github.com/zengziqiang/abutacyc3n</url>
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
@@ -17,16 +17,16 @@
 
     <developers>
         <developer>
-            <id>ossrh</id>
+            <id>central</id>
             <name>zengziqiang</name>
             <email>272804553@qq.com</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@gitee.com:zeng272804553/crj6dqpbjd.git</connection>
-        <developerConnection>scm:git:git@gitee.com:zeng272804553/crj6dqpbjd.git</developerConnection>
-        <url>https://gitee.com/zeng272804553/crj6dqpbjd</url>
+        <connection>scm:git:git@github.com:zengziqiang/abutacyc3n.git</connection>
+        <developerConnection>scm:git:git@github.com:zengziqiang/abutacyc3n.git</developerConnection>
+        <url>https://github.com/zengziqiang/abutacyc3n</url>
     </scm>
 
     <properties>
